@@ -1,5 +1,7 @@
 # learning-resources
 
+> This is used at BongoHive as template for sharing front-end resources.
+
 This consists of small exercises and assignments to prove the understanding of one in a particular topic  
 All the projects should be hosted on github and done using an online text editor like codesandbox.io
 
